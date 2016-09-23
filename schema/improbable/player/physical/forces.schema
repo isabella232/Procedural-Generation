@@ -1,0 +1,6 @@
+package improbable.player.physical;
+
+component Forces {
+  id = 1003;
+  float force_magnitude = 1;
+}

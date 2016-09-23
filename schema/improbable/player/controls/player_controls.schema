@@ -1,0 +1,6 @@
+package improbable.player.controls;
+
+component PlayerControls {
+  id = 1002;
+  Vector3d movement_direction = 1;
+}

@@ -1,0 +1,6 @@
+toolbelt.log
+spatialos_worker_packages.json
+build/
+logs/
+*spatial.log
+*zip_toolbelt.log
